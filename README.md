@@ -38,6 +38,9 @@
 | [tommyrunner/alternatingWeekends-uTools](https://github.com/tommyrunner/alternatingWeekends-uTools) | ![stars](https://img.shields.io/github/stars/tommyrunner/alternatingWeekends-uTools?color=f2f08d&logo=Undertale&logoColor=eb4630) | 一个专为职场人士设计的 uTools 插件，帮助您轻松管理和查看大小周休息日安排。 |
 | [CatsAndMice/password](https://github.com/CatsAndMice/password) | ![stars](https://img.shields.io/github/stars/CatsAndMice/password?color=f2f08d&logo=Undertale&logoColor=eb4630) | 密码管家 |
 | [itldg/utools-suspension-text](https://github.com/itldg/utools-suspension-text) | ![stars](https://img.shields.io/github/stars/itldg/utools-suspension-text?color=f2f08d&logo=Undertale&logoColor=eb4630) |  悬浮文本 |
+| [Komorebi-yaodong/Anywhere](https://github.com/Komorebi-yaodong/Anywhere) | ![stars](https://img.shields.io/github/stars/Komorebi-yaodong/Anywhere?color=f2f08d&logo=Undertale&logoColor=eb4630) |  AI Anywhere：随时随地，丝滑召唤AI，您的AI快捷助手 |
+| [Komorebi-yaodong/AI-Draw](https://github.com/Komorebi-yaodong/AI-Draw) | ![stars](https://img.shields.io/github/stars/Komorebi-yaodong/AI-Draw?color=f2f08d&logo=Undertale&logoColor=eb4630) |  AI绘画：基于pollinations.ai的免费AI生图 |
+| [Komorebi-yaodong/WhisperTTS](https://github.com/Komorebi-yaodong/WhisperTTS) | ![stars](https://img.shields.io/github/stars/Komorebi-yaodong/WhisperTTS?color=f2f08d&logo=Undertale&logoColor=eb4630) |  WhisperTTS：文本转语音、语音转文本 (基于openai的tts、whisper) |
 
 ## 贡献指南
 
