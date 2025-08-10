@@ -41,6 +41,16 @@
 | [Komorebi-yaodong/Anywhere](https://github.com/Komorebi-yaodong/Anywhere) | ![stars](https://img.shields.io/github/stars/Komorebi-yaodong/Anywhere?color=f2f08d&logo=Undertale&logoColor=eb4630) |  AI Anywhere：随时随地，丝滑召唤AI，您的AI快捷助手 |
 | [Komorebi-yaodong/AI-Draw](https://github.com/Komorebi-yaodong/AI-Draw) | ![stars](https://img.shields.io/github/stars/Komorebi-yaodong/AI-Draw?color=f2f08d&logo=Undertale&logoColor=eb4630) |  AI绘画：基于pollinations.ai的免费AI生图 |
 | [Komorebi-yaodong/WhisperTTS](https://github.com/Komorebi-yaodong/WhisperTTS) | ![stars](https://img.shields.io/github/stars/Komorebi-yaodong/WhisperTTS?color=f2f08d&logo=Undertale&logoColor=eb4630) |  WhisperTTS：文本转语音、语音转文本 (基于openai的tts、whisper) |
+| [xiaou66/color-manager](https://github.com/xiaou66/color-manager) | ![stars](https://img.shields.io/github/stars/xiaou66/color-manager?color=f2f08d&logo=Undertale&logoColor=eb4630) |  颜色插件 |
+| [xiaou66/utools-pendants](https://github.com/xiaou66/utools-pendants) | ![stars](https://img.shields.io/github/stars/xiaou66/utools-pendants?color=f2f08d&logo=Undertale&logoColor=eb4630) |  桌面挂件插件 |
+| [xiaou66/utools-pictureBed](https://github.com/xiaou66/utools-pictureBed) | ![stars](https://img.shields.io/github/stars/xiaou66/utools-pictureBed?color=f2f08d&logo=Undertale&logoColor=eb4630) |  图床插件 |
+| [xiaou66/shortcut-capture](https://github.com/xiaou66/shortcut-capture) | ![stars](https://img.shields.io/github/stars/xiaou66/shortcut-capture?color=f2f08d&logo=Undertale&logoColor=eb4630) |  截图插件 |
+| [ZiuChen/ClipboardManager](https://github.com/ZiuChen/ClipboardManager) | ![stars](https://img.shields.io/github/stars/ZiuChen/ClipboardManager?color=f2f08d&logo=Undertale&logoColor=eb4630) |  剪切板插件 |
+| [ZiuChen/FileSaver-uTools](https://github.com/ZiuChen/FileSaver-uTools) | ![stars](https://img.shields.io/github/stars/ZiuChen/FileSaver-uTools?color=f2f08d&logo=Undertale&logoColor=eb4630) |  将剪切板内容直接粘贴为文件的插件 |
+| [fofolee/uTools-quickcommand](https://github.com/fofolee/uTools-quickcommand) | ![stars](https://img.shields.io/github/stars/fofolee/uTools-quickcommand?color=f2f08d&logo=Undertale&logoColor=eb4630) |  快捷命令插件 |
+| [fofolee/uTools-ProcessKiller](https://github.com/fofolee/uTools-ProcessKiller) | ![stars](https://img.shields.io/github/stars/fofolee/uTools-ProcessKiller?color=f2f08d&logo=Undertale&logoColor=eb4630) |  系统进程管理插件 |
+| [ofolee/uTools-RandomWallpapers](https://github.com/ofolee/uTools-RandomWallpapers) | ![stars](https://img.shields.io/github/stars/ofolee/uTools-RandomWallpapers?color=f2f08d&logo=Undertale&logoColor=eb4630) |  随机获取wallhaven壁纸插件 |
+
 
 ## 贡献指南
 
