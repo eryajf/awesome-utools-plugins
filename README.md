@@ -47,3 +47,12 @@
 1. Fork 本仓库
 2. 提交你的修改,按照表格中指定的格式填写
 3. 创建一个 pull request
+
+## 项目源码
+
+可选择你熟悉的平台浏览源码：
+
+|   服务商   |                   地址                   |
+| :------: | :------------------------------------------: |
+|  `CNB`  | <https://cnb.cool/znb/awesome-utools-plugins>  |
+| `GitHub` | <https://github.com/eryajf/awesome-utools-plugins> |
