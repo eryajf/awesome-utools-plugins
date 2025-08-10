@@ -1,0 +1,3 @@
+include:
+- .cnb/workflows/sync-to-github.yml
+- .cnb/workflows/vscode.yml
