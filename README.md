@@ -50,6 +50,7 @@
 | [fofolee/uTools-quickcommand](https://github.com/fofolee/uTools-quickcommand) | ![stars](https://img.shields.io/github/stars/fofolee/uTools-quickcommand?color=f2f08d&logo=Undertale&logoColor=eb4630) |  快捷命令插件 |
 | [fofolee/uTools-ProcessKiller](https://github.com/fofolee/uTools-ProcessKiller) | ![stars](https://img.shields.io/github/stars/fofolee/uTools-ProcessKiller?color=f2f08d&logo=Undertale&logoColor=eb4630) |  系统进程管理插件 |
 | [ofolee/uTools-RandomWallpapers](https://github.com/ofolee/uTools-RandomWallpapers) | ![stars](https://img.shields.io/github/stars/ofolee/uTools-RandomWallpapers?color=f2f08d&logo=Undertale&logoColor=eb4630) |  随机获取wallhaven壁纸插件 |
+| [aaronlinv/utools-confetti](https://github.com/aaronlinv/utools-confetti) | ![stars](https://img.shields.io/github/stars/aaronlinv/utools-confetti?color=f2f08d&logo=Undertale&logoColor=eb4630) |  礼花：庆祝高光时刻！一键发射全屏五彩纸屑 |
 
 
 ## 贡献指南
